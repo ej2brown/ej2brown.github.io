@@ -1,7 +1,22 @@
 ---
 layout: default
 ---
-test
+Twitter
+LinkedIn
+
+About me 
+
+Projects 
+-devCollabs
+-Interview Schuduler
+-Resource wall 
+
+
+Coding Practices
+-codewrs snippets
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
