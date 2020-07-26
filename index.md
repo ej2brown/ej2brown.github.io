@@ -4,13 +4,11 @@ layout: default
 
 ## Table of Contents
 
-- [Numbers](https://github.com/ej2brown/ej2brown.github.io/#numbers)
-- [Strings](https://github.com/ej2brown/ej2brown.github.io/#strings)
+- [Numbers](#numbers)
+- [Strings](#strings)
 - Files
 - Algorithms
 - Data-structures
-
-**** [Gist]()
 
 
 Numbers
@@ -28,7 +26,7 @@ Strings
 
 **Talking Calendar** - Converting date strings like "2017/12/02", into more English friendly date strings like December 2nd, 2017. [CodePen](https://codepen.io/ej2brown/pen/zYrypWr?editors=1111)
 
-**pigLatinTranslator** [Gist](https://gist.github.com/ej2brown/f807644c349b20291ad450b1964c9857)
+**pigLatinTranslator** - Translates into pig latin [Gist](https://gist.github.com/ej2brown/f807644c349b20291ad450b1964c9857)
 
 **Palindrome** - Checks if string is palindrome. [Gist](https://gist.github.com/ej2brown/dbeb9ab765b9a663f1467e1a00d133f3)
 
